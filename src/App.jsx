@@ -10,6 +10,7 @@ function App() {
     <>
       <Header info='Dies die Ueberschrift'/>
       <ButtonList liste={eliste}/>
+      <ButtonList liste={eliste}/>
     </>
   )
 }
